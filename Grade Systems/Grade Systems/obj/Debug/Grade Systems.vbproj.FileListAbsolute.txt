@@ -1,0 +1,11 @@
+c:\users\administrator\documents\visual studio 2015\Projects\Grade Systems\Grade Systems\bin\Debug\Grade Systems.exe.config
+c:\users\administrator\documents\visual studio 2015\Projects\Grade Systems\Grade Systems\bin\Debug\Grade Systems.exe
+c:\users\administrator\documents\visual studio 2015\Projects\Grade Systems\Grade Systems\bin\Debug\Grade Systems.pdb
+c:\users\administrator\documents\visual studio 2015\Projects\Grade Systems\Grade Systems\bin\Debug\Grade Systems.xml
+c:\users\administrator\documents\visual studio 2015\Projects\Grade Systems\Grade Systems\obj\Debug\Grade Systems.vbprojResolveAssemblyReference.cache
+c:\users\administrator\documents\visual studio 2015\Projects\Grade Systems\Grade Systems\obj\Debug\Grade_Systems.Form1.resources
+c:\users\administrator\documents\visual studio 2015\Projects\Grade Systems\Grade Systems\obj\Debug\Grade_Systems.Resources.resources
+c:\users\administrator\documents\visual studio 2015\Projects\Grade Systems\Grade Systems\obj\Debug\Grade Systems.vbproj.GenerateResource.Cache
+c:\users\administrator\documents\visual studio 2015\Projects\Grade Systems\Grade Systems\obj\Debug\Grade Systems.exe
+c:\users\administrator\documents\visual studio 2015\Projects\Grade Systems\Grade Systems\obj\Debug\Grade Systems.xml
+c:\users\administrator\documents\visual studio 2015\Projects\Grade Systems\Grade Systems\obj\Debug\Grade Systems.pdb
